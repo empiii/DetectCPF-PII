@@ -1,6 +1,6 @@
 ## Detector de CPFs no Burp Suite
 
-Este código é uma extensão para o Burp Suite que detecta a presença de CPFs (Cadastro de Pessoas Físicas) em respostas HTTP. Ele foi projetado para auxiliar na identificação de possíveis vazamentos de informações pessoais sensíveis durante testes de segurança em aplicações web.
+Este script foi escrito em Python e é uma extensão para o Burp Suite que detecta a presença de CPFs (Cadastro de Pessoas Físicas) em respostas HTTP. Ele foi projetado para auxiliar na identificação de possíveis vazamentos de informações pessoais sensíveis durante Pentestes web.
 
 ### Funcionalidades Principais
 
