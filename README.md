@@ -50,3 +50,11 @@ Este código é uma extensão para o Burp Suite que detecta a presença de CPFs 
 - A interface gráfica simples permite ao usuário configurar facilmente a extensão.
 
 Esta documentação fornece uma visão geral do funcionamento da extensão e como ela pode ser usada para identificar CPFs em respostas HTTP durante testes de segurança em aplicações web.
+
+# Resultado. 
+
+https://github.com/empiii/DetectCPF-PII/assets/47393806/dd536d8c-eb78-4bd7-be38-d794fd1bd007
+
+
+
+
